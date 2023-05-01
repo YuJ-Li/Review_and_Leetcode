@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13b6d9c1-701a-4120-9fcb-efd99436ea4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "file.status.colors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,7 +84,7 @@
       <updated>1682948586752</updated>
       <workItem from="1682948591326" duration="647000" />
       <workItem from="1682949251150" duration="171000" />
-      <workItem from="1682949551583" duration="3540000" />
+      <workItem from="1682949551583" duration="3889000" />
     </task>
     <servers />
   </component>
